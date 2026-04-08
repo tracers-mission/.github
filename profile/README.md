@@ -1,7 +1,7 @@
 # Hi there 👋
 
 The Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites [TRACERS](https://tracers.physics.uiowa.edu) 
-aim to unlock long-standing questions in space weather, but to do so they need you to analyze the data.  That's where 
+aim to unlock long-standing questions in space weather, but to do so they need **you** to analyze the data.  That's where 
 this site comes in.  While the [Science Operations Center](https://tracers-portal.physics.uiowa.edu) provides basic data
 products, Instrument teams and affiliated scientists perform the analysis that makes the mission a success.  
 
