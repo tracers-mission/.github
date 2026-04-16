@@ -9,7 +9,41 @@ So join-up, make a repository, and share your code with others!
 
 ## Contribution Guidelines
 
-Anyone on the extended TRACERS team may create a repository here.  To do so (TBD)
+Anyone on the extended TRACERS team may create a repository here.  
+
+We are still in the organizational stages, so the procedure for joining
+this organization is still in flux.  For now, send a message to the
+current organization owners, namely Skylar Shaver or Chris Piker, 
+to request membership. 
+
+Other than typical standards of respect there is one cardinal rule for
+contributions to the tracers-mission organization.  Do not commit
+**any** code, plots or other documentation that are subject to 
+[ITAR](https://www.pmddtc.state.gov/ddtc_public?id=ddtc_public_portal_itar_landing) 
+or [EAR](https://www.bis.gov/regulations/ear/734) regulations.  
+That's the most important rule and bears repeating...
+
+### Export Control Notice
+Do not contribute any materials covered by ITAR or EAR regulations.
+Repositories with such information will be removed and *then* the owner
+of the repository will be notified.  Before an offending repository can
+be reinstated all ITAR or EAR materials must be completely scrubbed from
+all revisions back the first commit.  Merely deleting export controlled
+information from the current version is *not* sufficent.
+
+* [ITAR](https://www.pmddtc.state.gov/ddtc_public?id=ddtc_public_portal_itar_landing)
+  (International Traffic in Arms Regulations) governs defense articles,
+  defense services, and related technical data, administered by the U.S.
+  Department of State.
+
+* [EAR](https://www.bis.gov) (Export Administration Regulations) governs
+  dual-use commodities, software, and technology, administered by the U.S.
+  Department of Commerce.
+
+If you're uncertain whether material you'd like to contribute is subject to
+ITAR or EAR controls, then ask your organization's export control office to
+review the materials first, or just don't commit it.  When in doubt, leave
+it out.
 
 <!--
 
