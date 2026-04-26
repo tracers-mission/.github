@@ -45,6 +45,18 @@ ITAR or EAR controls, then ask your organization's export control office to
 review the materials first, or just don't commit it.  When in doubt, leave
 it out.
 
+For most TRACERS science team members, this means
+**DO NOT include the portal username and password in any of your code.**
+
+### License for TRACERS Repositories
+
+Please ensure that you choose a License consistent with NASA's 
+open source agreement. A couple of good choices include:
+
+* MIT License (fully open source)
+* BSD-2-Clause License (anyone who adds onto your code must continue to make it open source)
+* BSD-3-Clause License
+
 <!--
 
 **Here are some ideas to get you started:**
